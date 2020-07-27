@@ -10,8 +10,8 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="SLIIT MAD Reg 2020"
+        android:text="SLIIT MAD Regular 2020"
         android:textSize="30sp"
-        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteX="55dp"
         tools:layout_editor_absoluteY="131dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
